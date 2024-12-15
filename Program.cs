@@ -11,6 +11,7 @@ builder.Services
 
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+// app.MapGet("/", () => "Hello World!");
+app.MapGraphQL();
 
 app.Run();
