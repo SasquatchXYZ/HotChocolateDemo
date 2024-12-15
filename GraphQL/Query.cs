@@ -1,4 +1,4 @@
-using HotChocolateDemo.Models;
+using HotChocolateDemo.GraphQL.Models;
 
 namespace HotChocolateDemo.GraphQL;
 

@@ -1,4 +1,4 @@
-namespace HotChocolateDemo.Models;
+namespace HotChocolateDemo.GraphQL.Models;
 
 public class Author
 {
